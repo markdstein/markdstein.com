@@ -5,5 +5,7 @@ body {
     background-image: url("/images/Paradise_Lost_12.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
