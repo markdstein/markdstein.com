@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-        background-image: url("/images/Paradise_Lost_12.jpg");
+    background-image: url("/images/Paradise_Lost_12.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,5 +16,5 @@ h1 {
 
 p {
     color: red;
-    
+
 }
